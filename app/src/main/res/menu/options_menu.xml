@@ -19,7 +19,7 @@
         <item
             android:id="@+id/green"
             android:checkable="true"
-            android:title="Green" />
+            android:title="Greeno" />
         <item
             android:id="@+id/blue"
             android:checkable="true"
